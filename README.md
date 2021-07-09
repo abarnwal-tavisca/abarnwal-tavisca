@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abarnwal-tavisca
 - 👀 I’m interested in ... Technology
-- 🌱 I’m currently learning ... AWS Solutioning, Kubernetes Development
+- 🌱 I’m currently learning ... Azure / AWS Cloud based Solutioning, Kubernetes / Consul/ Terraform Development
 - 💞️ I’m looking to collaborate on ... Loyalty & Travel Program
 - 📫 How to reach me ... www.twiter.com/vnextcoder
 
